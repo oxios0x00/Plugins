@@ -14,9 +14,9 @@ The metadata slate for your DVR: writes Kodi/Plex NFO sidecars, posters and epis
 
 ### Latest Release
 
-- **Download:** [`clapparr-latest.zip`](https://github.com/Dispatcharr/Plugins/releases/download/clapparr-1.3.0/clapparr-1.3.0.zip)
-- **Built:** Aug 22 2026, 22:50 UTC
-- **Source Commit:** [`41752af`](https://github.com/Dispatcharr/Plugins/commit/41752afd9a5678d2f7a9a49f2209331a620e119f)
+- **Download:** [`clapparr-latest.zip`](https://github.com/oxios0x00/Plugins/releases/download/clapparr-1.3.0/clapparr-1.3.0.zip)
+- **Built:** Oct 24 2026, 06:39 UTC
+- **Source Commit:** [`41752af`](https://github.com/oxios0x00/Plugins/commit/41752afd9a5678d2f7a9a49f2209331a620e119f)
 
 **Checksums:**
 ```
@@ -28,11 +28,11 @@ SHA256: a5887f905b8ef6f84f2c090d1f450ff07640ac78364404ea8de88d5a72055f3b
 
 | Version | Download | Built | Commit | MD5 | SHA256 |
 |---------|----------|-------|--------|-----|--------|
-| `1.3.0` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/clapparr-1.3.0/clapparr-1.3.0.zip) | Aug 22 2026, 22:50 UTC | [`41752af`](https://github.com/Dispatcharr/Plugins/commit/41752afd9a5678d2f7a9a49f2209331a620e119f) | 9a1952028dc26dcf136dfdfb00e450cf | a5887f905b8ef6f84f2c090d1f450ff07640ac78364404ea8de88d5a72055f3b |
+| `1.3.0` | [Download](https://github.com/oxios0x00/Plugins/releases/download/clapparr-1.3.0/clapparr-1.3.0.zip) | Oct 24 2026, 06:39 UTC | [`41752af`](https://github.com/oxios0x00/Plugins/commit/41752afd9a5678d2f7a9a49f2209331a620e119f) | 9a1952028dc26dcf136dfdfb00e450cf | a5887f905b8ef6f84f2c090d1f450ff07640ac78364404ea8de88d5a72055f3b |
 
 ---
 
-**Source:** [Browse Plugin](https://github.com/Dispatcharr/Plugins/tree/main/plugins/clapparr)
+**Source:** [Browse Plugin](https://github.com/oxios0x00/Plugins/tree/main/plugins/clapparr)
 
 **Metadata:** [View full manifest](./manifest.json)
 

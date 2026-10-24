@@ -2,7 +2,7 @@
 
 # Lineuparr
 
-**Version:** `1.26.2561550` | **Author:** PiratesIRC | **Last Updated:** Sep 13 2026, 16:03 UTC
+**Version:** `1.26.2901915` | **Author:** PiratesIRC | **Last Updated:** Oct 17 2026, 21:57 UTC
 
 Mirror real-world provider channel lineups by creating channel groups, channels, and fuzzy-matching IPTV streams to them.
 
@@ -14,34 +14,25 @@ Mirror real-world provider channel lineups by creating channel groups, channels,
 
 ### Latest Release
 
-- **Download:** [`lineuparr-latest.zip`](https://github.com/Dispatcharr/Plugins/releases/download/lineuparr-1.26.2561550/lineuparr-1.26.2561550.zip)
-- **Built:** Sep 13 2026, 16:03 UTC
-- **Source Commit:** [`e56e990`](https://github.com/Dispatcharr/Plugins/commit/e56e9906c18e092bb424366e0ed361c4bcd07612)
+- **Download:** [`lineuparr-latest.zip`](https://github.com/oxios0x00/Plugins/releases/download/lineuparr-1.26.2901915/lineuparr-1.26.2901915.zip)
+- **Built:** Oct 24 2026, 06:40 UTC
+- **Source Commit:** [`0d24250`](https://github.com/oxios0x00/Plugins/commit/0d24250ed3d41c58f7901674909f2b88042e892e)
 
 **Checksums:**
 ```
-MD5:    48b855f675156903fe8421e7d80ccbf6
-SHA256: e46ceda0cd9e14154a912dd642dfaa5dc406a5a6bff8882238098785929c0f42
+MD5:    96f4b1ca9518417cd175c3679a0e8e3e
+SHA256: 7712aceae3e6f9a5383c26d55a8c6eb9c202ba65836345e65e5129045aaa9c74
 ```
 
 ### All Versions
 
 | Version | Download | Built | Commit | MD5 | SHA256 |
 |---------|----------|-------|--------|-----|--------|
-| `1.26.2561550` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/lineuparr-1.26.2561550/lineuparr-1.26.2561550.zip) | Sep 13 2026, 16:03 UTC | [`e56e990`](https://github.com/Dispatcharr/Plugins/commit/e56e9906c18e092bb424366e0ed361c4bcd07612) | 48b855f675156903fe8421e7d80ccbf6 | e46ceda0cd9e14154a912dd642dfaa5dc406a5a6bff8882238098785929c0f42 |
-| `1.26.2481702` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/lineuparr-1.26.2481702/lineuparr-1.26.2481702.zip) | Sep 05 2026, 17:43 UTC | [`73d6175`](https://github.com/Dispatcharr/Plugins/commit/73d61757c1729d0d58cd34fe24f4d422dcaf3642) | 532b59b37f580ced08de2a65933fa649 | ac627e4897183392e56761aa4d26a2598382297e4df8873259a27cc0ffbe2fa8 |
-| `1.26.2421451` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/lineuparr-1.26.2421451/lineuparr-1.26.2421451.zip) | Aug 30 2026, 14:59 UTC | [`476de89`](https://github.com/Dispatcharr/Plugins/commit/476de89d6d0dcdd560700459c3d16a5369e2ca9f) | 197c71fa2b92b46c7b3998dc47000219 | aa2e8a1a77efb2739802d5428c83a8067beead44ed48f96a546ccc91cf636741 |
-| `1.26.2291211` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/lineuparr-1.26.2291211/lineuparr-1.26.2291211.zip) | Aug 17 2026, 12:18 UTC | [`d8d31a9`](https://github.com/Dispatcharr/Plugins/commit/d8d31a97780e2875831a22b78bf52263baa0485a) | c9feb41615487ac7c26d59e56a372828 | c3d73602e91c065a5aac7db7901556909ea08b54a4f515bedd46533aaff1ecf3 |
-| `1.26.2271740` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/lineuparr-1.26.2271740/lineuparr-1.26.2271740.zip) | Aug 15 2026, 18:21 UTC | [`51dc15c`](https://github.com/Dispatcharr/Plugins/commit/51dc15cdc6e4859cdcad5d56baf6f9587d4c1f5f) | 04eb22929a7c6441063d47ca45800fae | 17e25884accec92b05c396f7f8a2e3ee8c3f5db2df0b850c2fc075eb4b67c436 |
-| `1.26.2241618` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/lineuparr-1.26.2241618/lineuparr-1.26.2241618.zip) | Aug 12 2026, 17:50 UTC | [`5ba093d`](https://github.com/Dispatcharr/Plugins/commit/5ba093de507732b40c6334e995f987fbe540423b) | 00e307dbcc82f5a4a6ed4cdf81d81f2e | fc590ffa3e4351fddce850c4baa16d4876cfa9c218490304cceaa2cad9b47162 |
-| `1.26.2171315` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/lineuparr-1.26.2171315/lineuparr-1.26.2171315.zip) | Aug 05 2026, 14:26 UTC | [`ec73378`](https://github.com/Dispatcharr/Plugins/commit/ec73378d08dfa6275c691e26d7f1264d0ac24255) | 561a6fead42d2cd84c58cd6b76034557 | ec70ac36837f389fe6d9f5b480bbe0d7bc88fb34a3d737f8edaf108a536843a7 |
-| `1.26.2142327` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/lineuparr-1.26.2142327/lineuparr-1.26.2142327.zip) | Aug 03 2026, 00:35 UTC | [`3d801fb`](https://github.com/Dispatcharr/Plugins/commit/3d801fb4530196dc46c3c38d9843548ecb65d097) | ccacd026076d656c387fbcab93e4c299 | 0231a6abb943d406813df0ce72d73659653a0e7b936f1b365e74a7bb5badb977 |
-| `1.26.1791747` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/lineuparr-1.26.1791747/lineuparr-1.26.1791747.zip) | Jun 29 2026, 11:28 UTC | [`ed8ee86`](https://github.com/Dispatcharr/Plugins/commit/ed8ee868bb90d6f2db8c20e4e67ee0014fdf8fa7) | bb8596cf83acde35e81ec395e2411040 | df1866c6fe65b135157254209832cc7afd7285023375cb44f3f951c3ec24dee0 |
-| `1.26.1641222` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/lineuparr-1.26.1641222/lineuparr-1.26.1641222.zip) | Jun 13 2026, 13:21 UTC | [`c9b8a7b`](https://github.com/Dispatcharr/Plugins/commit/c9b8a7bca055605d573865e1016d073155bbc31e) | 6f65dd312bb036ab5fa5fa6372ad5bac | 2ca2b96acfcd00db6ad84fcbcdd675c69ee08d37de576e7c96ed6d006a650f5c |
+| `1.26.2901915` | [Download](https://github.com/oxios0x00/Plugins/releases/download/lineuparr-1.26.2901915/lineuparr-1.26.2901915.zip) | Oct 24 2026, 06:40 UTC | [`0d24250`](https://github.com/oxios0x00/Plugins/commit/0d24250ed3d41c58f7901674909f2b88042e892e) | 96f4b1ca9518417cd175c3679a0e8e3e | 7712aceae3e6f9a5383c26d55a8c6eb9c202ba65836345e65e5129045aaa9c74 |
 
 ---
 
-**Source:** [Browse Plugin](https://github.com/Dispatcharr/Plugins/tree/main/plugins/lineuparr)
+**Source:** [Browse Plugin](https://github.com/oxios0x00/Plugins/tree/main/plugins/lineuparr)
 
 **Metadata:** [View full manifest](./manifest.json)
 
@@ -107,6 +98,13 @@ Over 200 built-in channel aliases, plus your own in JSON. Every setting and acti
 | `NL_ODIDO_lineup.json` | ODIDO | NL | ~155 |
 | `NL_KPN_lineup.json` | KPN Interactive TV, television and radio | NL | ~290 |
 | `QA_beIN-MENA_lineup.json` | beIN MENA (Middle East and North Africa) | QA | ~168 |
+| `TZ_Azam-TV_lineup.json` | Azam TV | TZ | ~146 |
+| `TZ_DStv-Premium_lineup.json` | DStv Premium | TZ | ~192 |
+| `TZ_Combined_lineup.json` | TZ Combined (Azam TV + DStv Premium) | TZ | ~310 |
+| `DO_Altice_lineup.json` | Altice | DO | ~224 |
+| `DO_Claro_lineup.json` | Claro | DO | ~261 |
+| `DO_Combined_lineup.json` | DO Combined (Altice + Claro) | DO | ~309 |
+| `PE_Claro_lineup.json` | Claro Peru | PE | ~201 |
 
 The beIN MENA lineup is regional rather than single country, so its country filtering is partial. Its filename country code is QA, which rejects streams tagged for a country outside the region: an Australian, Belgian or French beIN feed will not attach to one of its channels. Streams tagged for another Middle East or North Africa country, and streams tagged AR for Arabic, are treated as untagged and are kept, which is deliberate because those are the tags the region's own feeds carry.
 
@@ -139,7 +137,7 @@ Remove the old plugin from the **Plugins** page, restart Dispatcharr (`docker re
 
 | Page | What is in it |
 |---|---|
-| **[User guide](https://github.com/PiratesIRC/Dispatcharr-Lineuparr-Plugin/blob/main/docs/USER-GUIDE.md)** | Every setting, every action, match sensitivity, country matching, custom aliases, reports and emailing, file locations, troubleshooting, and how the matching pipeline works. |
+| **[User guide](https://github.com/PiratesIRC/Dispatcharr-Lineuparr-Plugin/blob/main/docs/USER-GUIDE.md)** | Every setting, every action, match sensitivity, country matching, custom aliases, adding a second provider, keeping channels up to date, requesting a new lineup, reports and emailing, file locations, troubleshooting, and how the matching pipeline works. |
 | **[Lineup file format](https://github.com/PiratesIRC/Dispatcharr-Lineuparr-Plugin/blob/main/docs/LINEUP-FORMAT.md)** | Writing your own lineup: the JSON shape, the filename rule, per-channel aliases, and marking foreign channels. |
 
 ## Contributing
@@ -179,6 +177,25 @@ The plugin never contacts a media provider. It never opens, fetches, decodes, re
 All product names, channel names, trademarks and registered trademarks mentioned in this project or appearing in its lineup files are the property of their respective owners. This project is an independent, community-built plugin. It is not affiliated with, endorsed by, or sponsored by any television network, broadcaster, streaming service or IPTV provider, and it is not affiliated with the Dispatcharr project beyond being a plugin written for it.
 
 The software is provided as-is, without warranty of any kind, as set out in the licence. This section describes the design of the software and the author's intent. It is not legal advice. If you need to know whether your own use is lawful, ask someone qualified in your jurisdiction.
+
+## Anonymous usage counts
+
+The Channels Created and Active Installs badges count every install that leaves
+the "Share anonymous usage counts" setting (on by default) ticked and runs at
+least one action or sync. When an action or sync finishes, at most once an hour,
+or ten minutes after the last report when a sync has just created channels, the
+plugin sends this plugin's Channels Created total and a random id for this
+plugin on this install to the plugin author's counter at
+plugin-stats.dpas.workers.dev. The server stores that id with the total and the
+date of the last report. The connection shows the server your public IP address;
+the server uses it only to limit abuse and does not store it in its database,
+though when an install first registers it keeps a salted one-way hash of it (of
+its /64 block for IPv6) for up to three days. Cloudflare, which hosts the
+server, keeps its own request logs. No names, channels, streams, providers or
+settings are sent. The figures are self-reported by installs and capped by the
+server, not verified. Untick the setting to stop sending; this install's figures
+are deleted from the server the next time an action or sync finishes after you
+untick.
 
 ## License
 

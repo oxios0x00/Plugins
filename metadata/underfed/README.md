@@ -2,7 +2,7 @@
 
 # Underfed
 
-**Version:** `0.5.0` | **Author:** PilaScat | **Last Updated:** Sep 21 2026, 21:08 UTC
+**Version:** `0.8.0` | **Author:** PilaScat | **Last Updated:** Oct 12 2026, 14:28 UTC
 
 Moves a channel off a source that is starving it, drifting its sound or refusing it: to the next source when the stream arrives at a fraction of its bitrate or with its timestamps apart, to the back of the chain when the provider answers 403.
 
@@ -12,27 +12,25 @@ Moves a channel off a source that is starving it, drifting its sound or refusing
 
 ### Latest Release
 
-- **Download:** [`underfed-latest.zip`](https://github.com/Dispatcharr/Plugins/releases/download/underfed-0.5.0/underfed-0.5.0.zip)
-- **Built:** Sep 21 2026, 21:09 UTC
-- **Source Commit:** [`89900f9`](https://github.com/Dispatcharr/Plugins/commit/89900f9516a27a1946af159412d2210b7e97cb65)
+- **Download:** [`underfed-latest.zip`](https://github.com/oxios0x00/Plugins/releases/download/underfed-0.8.0/underfed-0.8.0.zip)
+- **Built:** Oct 24 2026, 06:41 UTC
+- **Source Commit:** [`7caef90`](https://github.com/oxios0x00/Plugins/commit/7caef90467b4318d946777387b150999cc4f35f5)
 
 **Checksums:**
 ```
-MD5:    a23dc15479b0c662c80f8c155f4a11d9
-SHA256: 7ecaecd27548ecb156baac8d1e1b2bd1b5e67cb1d99904387f286fa6e729fd3a
+MD5:    d5732d4b73981a1acb5732432c92816e
+SHA256: d77ddf45dd5b3a5a8659e771c034f02e11fcd4ba17a8b5a5ac50d46de25af912
 ```
 
 ### All Versions
 
 | Version | Download | Built | Commit | MD5 | SHA256 |
 |---------|----------|-------|--------|-----|--------|
-| `0.5.0` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/underfed-0.5.0/underfed-0.5.0.zip) | Sep 21 2026, 21:09 UTC | [`89900f9`](https://github.com/Dispatcharr/Plugins/commit/89900f9516a27a1946af159412d2210b7e97cb65) | a23dc15479b0c662c80f8c155f4a11d9 | 7ecaecd27548ecb156baac8d1e1b2bd1b5e67cb1d99904387f286fa6e729fd3a |
-| `0.4.0` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/underfed-0.4.0/underfed-0.4.0.zip) | Sep 15 2026, 11:41 UTC | [`c800f7e`](https://github.com/Dispatcharr/Plugins/commit/c800f7e99fea3c625a96061f2ba8a52fe596d4c3) | f2fd14dbcdc951499290bd391f0d8d43 | 191c82987939f14ee6c477e069037e0d02609c09793718b2e60bff8fd2e94967 |
-| `0.3.2` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/underfed-0.3.2/underfed-0.3.2.zip) | Sep 14 2026, 20:13 UTC | [`68f1181`](https://github.com/Dispatcharr/Plugins/commit/68f11812be1864f33d9fc130497071908dbdca97) | 597f324791f1f7c5ea471e262b062e7e | a6451dcc46d5be26958cc8cd3a318797499509de713f8f0f04c9bf0dd424dd19 |
+| `0.8.0` | [Download](https://github.com/oxios0x00/Plugins/releases/download/underfed-0.8.0/underfed-0.8.0.zip) | Oct 24 2026, 06:41 UTC | [`7caef90`](https://github.com/oxios0x00/Plugins/commit/7caef90467b4318d946777387b150999cc4f35f5) | d5732d4b73981a1acb5732432c92816e | d77ddf45dd5b3a5a8659e771c034f02e11fcd4ba17a8b5a5ac50d46de25af912 |
 
 ---
 
-**Source:** [Browse Plugin](https://github.com/Dispatcharr/Plugins/tree/main/plugins/underfed)
+**Source:** [Browse Plugin](https://github.com/oxios0x00/Plugins/tree/main/plugins/underfed)
 
 **Metadata:** [View full manifest](./manifest.json)
 
@@ -51,14 +49,16 @@ Nothing times out, nothing errors, nothing switches. The buffer drains, the play
 out of segments, and viewers sit there watching a stall that no log explains.
 
 Underfed reads the number that already exists and that nothing else acts on. It also reads
-a second one: the timestamp discontinuities ffmpeg logs when a source's sound drifts away
-from the picture.
+the timestamp discontinuities ffmpeg logs when a source's sound drifts away from the
+picture, and the share of the picture or the sound a source is missing while it arrives at
+full rate.
 
 ## Requirements
 
 - Dispatcharr with the plugin system (the Plugins page)
 - [reservoarr](https://github.com/brko7/reservoarr) as the stream profile, which writes the
-  telemetry this plugin reads
+  telemetry this plugin reads; the missing picture or sound rule needs the `vholes=` and
+  `aholes=` fields, proposed to reservoarr for 6.3.9 and not in a release yet
 - A Dispatcharr API key
 
 ## Install
@@ -76,12 +76,15 @@ changes nothing. Read the journal under Check status, then turn it off.
 | API key | A Dispatcharr API key, from Settings → Users. The watcher needs it to read channel status and to change source |
 | Observe only | Records what it would have done without doing it |
 | Trigger below | Share of the content rate under which a source counts as underfed. 70 is a sensible floor: a healthy source sits at 100 |
-| Confirm for | How long a shortfall, or the timestamp discontinuities, must last before acting. Short dips recover on their own |
+| Confirm for | How long a shortfall must last before acting. Short dips recover on their own |
 | Switches per hour | Per channel, over the last hour, restarts of the watcher included. Stops it bouncing between two sources that are both weak |
 | Ignore first | Right after a channel opens the measured content rate is not trustworthy yet |
 | Stable after | A source that holds up this long is treated as recovered. A shorter recovery keeps the shortfall counting, so a source that flickers is still caught |
-| Timestamp discontinuities | Per minute, per source. A healthy source logs a handful, one whose sound drifts away from the picture hundreds. At this many, for Confirm for, the source is switched. 0 turns it off |
-| Refused source held back | A source the provider answers 403 to goes last in its chain, ahead of the fallback card, so the next tune-in does not start on it again; it climbs back after these minutes. 0 turns it off |
+| Timestamp discontinuities | Per minute, per source. A healthy source logs a handful, one whose sound drifts away from the picture hundreds. At this many, for Confirm discontinuities for, the source is switched. 0 turns it off |
+| Confirm discontinuities for | How long the discontinuities must last before acting, 15 s by default. A storm is unmistakable and the sound drifts further every second, so this is shorter than Confirm for |
+| Picture or sound missing | Share of each telemetry window a source's picture or sound is missing, as reservoarr reports it in `vholes=` and `aholes=`; the worse of the two counts. A healthy source reads 0. At this share, on every line for Confirm missing picture or sound for, the source is switched. 0 turns it off; with a reservoarr without `vholes=` and `aholes=`, as 6.3.8, there is nothing to read |
+| Confirm missing picture or sound for | How long the missing share must hold before acting, 30 s by default |
+| Refused source held back | A source the provider answers 403 to, or that closes the connection without sending a byte, goes last in its chain, ahead of the fallback card, so the next tune-in does not start on it again; it climbs back after these minutes. 0 turns it off |
 | Excluded channels | One channel name per line |
 | reservoarr log | Where reservoarr writes `delaybuf.log`. Change it only if `RESV_LOG_DIR` was moved |
 | Dispatcharr URL | Reached from inside the container |
@@ -132,8 +135,19 @@ again. reservoarr's ffmpeg logs it in `delaybuf.log`, in pairs:
 ```
 
 A healthy source logs a handful of these a minute; that one logged up to 1,836. When a source
-stays at Timestamp discontinuities or above for the confirmation window, counted over the last
-minute, the watcher moves the channel on the same way.
+stays at Timestamp discontinuities or above for Confirm discontinuities for, counted over the
+last minute, the watcher moves the channel on the same way.
+
+A source can also arrive at full rate while whole stretches of it are missing: on 12 October
+2026 one dropped 4 s out of every 8, picture and sound, with `in` matching `crate`, no
+discontinuity and ffmpeg's `speed=` at 1.0. reservoarr, with the change proposed for 6.3.9,
+measures it on the timestamps of the incoming picture and sound and ends each telemetry line
+with `vholes=N% aholes=N%`, the share of that window each one is missing; sound that stops
+while the picture runs reads 100. It is measured before ffmpeg, so silence padded in later
+does not hide it.
+When every line of a source reads Picture or sound missing or more, for either of the two, for
+Confirm missing picture or sound for, after the warm-up, the watcher moves the channel on the
+same way. The journal says which one was missing: `what` is `video`, `audio` or `both`.
 
 It refuses to act when any of these is true:
 
@@ -171,6 +185,15 @@ refusal anyway.
 
 A channel whose chain has one source only, or whose refused source is already last, is left
 alone: there is nowhere lower to go.
+
+A source that **closes the connection without sending a byte** is treated the same way (0.7.0).
+Some edges accept the connection, hold it for about twenty seconds and then close it, and
+Dispatcharr retries the same source three times before it moves on: about 43 seconds, past the
+30 seconds after which some clients give up. On the evening of 10 October 2026 one such source
+cost six viewers in a row between 23 and 50 seconds each. The sign is reservoarr's `giving up`
+right after an `upstream EOF`. Other give-ups do not count: the provider's MP4 placeholder means
+the channel has nothing on air, so every source of the chain would answer with it, and a 407 or a
+520 is the provider or the VPN, not the source.
 
 ## What this does not fix
 

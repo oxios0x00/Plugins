@@ -14,34 +14,25 @@ An intelligent DRM/Clearkey capable stream profile for Dispatcharr
 
 ### Latest Release
 
-- **Download:** [`dispatchwrapparr-latest.zip`](https://github.com/Dispatcharr/Plugins/releases/download/dispatchwrapparr-1.7.8/dispatchwrapparr-1.7.8.zip)
-- **Built:** Sep 16 2026, 09:25 UTC
-- **Source Commit:** [`0543ea1`](https://github.com/Dispatcharr/Plugins/commit/0543ea1f4086b0da4e80e400422b2d0b72c70da9)
+- **Download:** [`dispatchwrapparr-latest.zip`](https://github.com/oxios0x00/Plugins/releases/download/dispatchwrapparr-1.7.8/dispatchwrapparr-1.7.8.zip)
+- **Built:** Oct 24 2026, 06:40 UTC
+- **Source Commit:** [`0543ea1`](https://github.com/oxios0x00/Plugins/commit/0543ea1f4086b0da4e80e400422b2d0b72c70da9)
 
 **Checksums:**
 ```
-MD5:    2cdf3ba27e9539708fedcbfcd4b04f18
-SHA256: 3bfef561db3a96d57580de5ad0662b53332524c09920fd3ee678bacfb4d359fe
+MD5:    0e2289153ce6a22326f5e4901bf96a68
+SHA256: e163d305ec3531cd80074f3f083fea138b1083537d15f1effaf61ac8b4bfe6e6
 ```
 
 ### All Versions
 
 | Version | Download | Built | Commit | MD5 | SHA256 |
 |---------|----------|-------|--------|-----|--------|
-| `1.7.8` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/dispatchwrapparr-1.7.8/dispatchwrapparr-1.7.8.zip) | Sep 16 2026, 09:25 UTC | [`0543ea1`](https://github.com/Dispatcharr/Plugins/commit/0543ea1f4086b0da4e80e400422b2d0b72c70da9) | 2cdf3ba27e9539708fedcbfcd4b04f18 | 3bfef561db3a96d57580de5ad0662b53332524c09920fd3ee678bacfb4d359fe |
-| `1.7.7` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/dispatchwrapparr-1.7.7/dispatchwrapparr-1.7.7.zip) | Aug 29 2026, 06:14 UTC | [`6d5a961`](https://github.com/Dispatcharr/Plugins/commit/6d5a96150c39656871907c3b51b72b372dd5a76a) | f79ccce07def50864caafe3694007d84 | 3a1720ffad79d0d986bb7bb3f843d9c95f2328560a528ec45a87fa635e911fb8 |
-| `1.7.6` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/dispatchwrapparr-1.7.6/dispatchwrapparr-1.7.6.zip) | Jul 08 2026, 01:38 UTC | [`9fc5ffc`](https://github.com/Dispatcharr/Plugins/commit/9fc5ffc13904e456ba251ceecc747d3b2d837221) | bb32c7764a70f5d8e348b5b5070e183c | 1ebb732ae7bbc911f18a1a035a3f34eb2a6a99e8e62afe24a3621d499aff374c |
-| `1.7.5` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/dispatchwrapparr-1.7.5/dispatchwrapparr-1.7.5.zip) | Jun 27 2026, 05:59 UTC | [`2f419a0`](https://github.com/Dispatcharr/Plugins/commit/2f419a064b0332118cccc8ee680904fe399e51b6) | c3a0074b2382390a16ff5b6c04c9e39b | 82c6a6690e9b29214e2caa8cf8b31a266c567cb470b0cc4062fa82914f217d99 |
-| `1.7.4` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/dispatchwrapparr-1.7.4/dispatchwrapparr-1.7.4.zip) | Jun 14 2026, 23:10 UTC | [`ee12e6a`](https://github.com/Dispatcharr/Plugins/commit/ee12e6a51c08f7cacf436b528c10ad2faec9b2dd) | 1e0dd15dfad11042002ec4e37c11c0ae | 4fcc117cbf15f0d91f5a1a7b4fe7843057f50db5db09fb5ddf3f49f7d596b162 |
-| `1.7.3` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/dispatchwrapparr-1.7.3/dispatchwrapparr-1.7.3.zip) | Jun 07 2026, 12:43 UTC | [`bc522f1`](https://github.com/Dispatcharr/Plugins/commit/bc522f1f01c094273bded4b7b66350dc62d039fa) | 1457925b992adaa9a88e0859f14cac7c | 2cdc92af862db8fc12e58defd96b38de46c7213f2a9d47c8b29fd3da109d464b |
-| `1.7.2` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/dispatchwrapparr-1.7.2/dispatchwrapparr-1.7.2.zip) | Jun 06 2026, 02:42 UTC | [`0d3e0b5`](https://github.com/Dispatcharr/Plugins/commit/0d3e0b5e7f0a11840589e5bd75ae4f2608d1722d) | 443e3e3a5d0868e95e66e31d2a133c8f | 00f5f8dad21427cbc317cc9c04d9442a5fe19ebfa6fbb9ebfc059e786dbf61ec |
-| `1.7.1` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/dispatchwrapparr-1.7.1/dispatchwrapparr-1.7.1.zip) | May 24 2026, 21:57 UTC | [`447eca9`](https://github.com/Dispatcharr/Plugins/commit/447eca99c56ceaa0e90d6f3b430f4027e7329025) | 39b03ca5cc4c809bc7e118e5258f2a52 | 5d56a759f1fb479dfb0c5f8ce525408510ad19598238c8f56dbca899e8e74f4a |
-| `1.7.0` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/dispatchwrapparr-1.7.0/dispatchwrapparr-1.7.0.zip) | May 22 2026, 04:46 UTC | [`ef5e336`](https://github.com/Dispatcharr/Plugins/commit/ef5e336dad2396db99535c190be7e6c58d8cb2f9) | 0b2a4e714d6541133b8a8dcf6849d9e0 | 93f3a833c585294fb396442172c399457413a1962607ac5bb01f69ffb3b70fd2 |
-| `1.6.2` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/dispatchwrapparr-1.6.2/dispatchwrapparr-1.6.2.zip) | Apr 28 2026, 01:30 UTC | [`44fbc6b`](https://github.com/Dispatcharr/Plugins/commit/44fbc6b96eebd52ea29b27fc371af3c20f997702) | f33c4a46e9012498858ac1770370888c | 49137d25684dfab53fd571aed6b94a2432fa2dcdfb6aa9629755b05bd0bcc02b |
+| `1.7.8` | [Download](https://github.com/oxios0x00/Plugins/releases/download/dispatchwrapparr-1.7.8/dispatchwrapparr-1.7.8.zip) | Oct 24 2026, 06:40 UTC | [`0543ea1`](https://github.com/oxios0x00/Plugins/commit/0543ea1f4086b0da4e80e400422b2d0b72c70da9) | 0e2289153ce6a22326f5e4901bf96a68 | e163d305ec3531cd80074f3f083fea138b1083537d15f1effaf61ac8b4bfe6e6 |
 
 ---
 
-**Maintainers:** michaelmurfy | **Source:** [Browse Plugin](https://github.com/Dispatcharr/Plugins/tree/main/plugins/dispatchwrapparr)
+**Maintainers:** michaelmurfy | **Source:** [Browse Plugin](https://github.com/oxios0x00/Plugins/tree/main/plugins/dispatchwrapparr)
 
 **Metadata:** [View full manifest](./manifest.json)
 

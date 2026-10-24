@@ -2,7 +2,7 @@
 
 # Ranked Matchups (Top Games)
 
-**Version:** `1.31.0` | **Author:** Jacob-Lasky | **Last Updated:** Sep 27 2026, 02:40 UTC
+**Version:** `1.36.0` | **Author:** Jacob-Lasky | **Last Updated:** Oct 16 2026, 14:29 UTC
 
 Never miss a good game. Scores every upcoming game across 39 leagues, tours and competitions (22 of them soccer, plus NFL, NBA, MLB, NHL, NCAA D1 football and basketball, UFC, boxing, tennis, golf and motorsport), then builds a Top Matchups group holding only the ones worth watching and shows why each game ranked where it did in its EPG description. Finished games can clear themselves out and be replaced from a bench of the next-best fixtures.
 
@@ -12,34 +12,25 @@ Never miss a good game. Scores every upcoming game across 39 leagues, tours and 
 
 ### Latest Release
 
-- **Download:** [`dispatcharr-ranked-matchups-latest.zip`](https://github.com/Dispatcharr/Plugins/releases/download/dispatcharr-ranked-matchups-1.31.0/dispatcharr-ranked-matchups-1.31.0.zip)
-- **Built:** Sep 27 2026, 02:40 UTC
-- **Source Commit:** [`f74211b`](https://github.com/Dispatcharr/Plugins/commit/f74211b741020c7914c8b88aaaee9c20d44aea2a)
+- **Download:** [`dispatcharr-ranked-matchups-latest.zip`](https://github.com/oxios0x00/Plugins/releases/download/dispatcharr-ranked-matchups-1.36.0/dispatcharr-ranked-matchups-1.36.0.zip)
+- **Built:** Oct 24 2026, 06:39 UTC
+- **Source Commit:** [`aaac7b4`](https://github.com/oxios0x00/Plugins/commit/aaac7b46076be8379e4bc9a0adc97e51807401c5)
 
 **Checksums:**
 ```
-MD5:    fe611737e47fa661ea2dd7ddeb9e7866
-SHA256: 145e69a12c8a143659a89251d1a6d6b2ba6ae317b64cf627d60f0d4ac8055361
+MD5:    10f714d203c969838e1e0b4fa5fae8bd
+SHA256: 4d3aa5843174a8cc708d8b3846af52e3f1c1dda968af71138ad21ee6e3f0a61a
 ```
 
 ### All Versions
 
 | Version | Download | Built | Commit | MD5 | SHA256 |
 |---------|----------|-------|--------|-----|--------|
-| `1.31.0` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/dispatcharr-ranked-matchups-1.31.0/dispatcharr-ranked-matchups-1.31.0.zip) | Sep 27 2026, 02:40 UTC | [`f74211b`](https://github.com/Dispatcharr/Plugins/commit/f74211b741020c7914c8b88aaaee9c20d44aea2a) | fe611737e47fa661ea2dd7ddeb9e7866 | 145e69a12c8a143659a89251d1a6d6b2ba6ae317b64cf627d60f0d4ac8055361 |
-| `1.30.1` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/dispatcharr-ranked-matchups-1.30.1/dispatcharr-ranked-matchups-1.30.1.zip) | Sep 27 2026, 02:00 UTC | [`a724fe9`](https://github.com/Dispatcharr/Plugins/commit/a724fe931c7a862ef54c66c769914a9b033f72e3) | 53c53386af54ade9341ac06913ca3c8a | c7800ea15be50666181f06870941a6f8d2cfe7add7a5752dae09dc837ce03687 |
-| `1.29.0` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/dispatcharr-ranked-matchups-1.29.0/dispatcharr-ranked-matchups-1.29.0.zip) | Sep 26 2026, 22:23 UTC | [`f8580d2`](https://github.com/Dispatcharr/Plugins/commit/f8580d2789d6d7acd54376213a5dd3d4d9cf6803) | 876c7451dfbaf40e3b541eb635c47731 | a10f6a436de43bd9619fe4667f14102677c527901421b9eeaf4f63fee272fa25 |
-| `1.28.1` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/dispatcharr-ranked-matchups-1.28.1/dispatcharr-ranked-matchups-1.28.1.zip) | Sep 26 2026, 18:03 UTC | [`58d0718`](https://github.com/Dispatcharr/Plugins/commit/58d0718061562a6d6dcb7a82d56d7264071026de) | 28e063201c4908f6dad5c7c73b044b08 | 7f9983ddcf23e60217892fb4b44f54c82f7251910d85dec4bda3e7dd8be44999 |
-| `1.28.0` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/dispatcharr-ranked-matchups-1.28.0/dispatcharr-ranked-matchups-1.28.0.zip) | Sep 07 2026, 03:13 UTC | [`15fe238`](https://github.com/Dispatcharr/Plugins/commit/15fe238106424c7c1d836db11adbb78257bafe89) | 6a402e78d7b5ca27de5a054f42ce363f | e249d8350f5ad743a80b27b4570ada1bdf8f7f3a96449f88bc1cbd600394a184 |
-| `1.27.1` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/dispatcharr-ranked-matchups-1.27.1/dispatcharr-ranked-matchups-1.27.1.zip) | Sep 02 2026, 16:05 UTC | [`43c71e4`](https://github.com/Dispatcharr/Plugins/commit/43c71e483da225d6f2f5e75040342668bb2d9f6c) | e80bdaca71735c8d23004c39e76392bf | d626d056e4bc3b6e91fc6e0b3e0cf682661e1292c1ac80cec540ea56e499b870 |
-| `1.26.0` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/dispatcharr-ranked-matchups-1.26.0/dispatcharr-ranked-matchups-1.26.0.zip) | Aug 29 2026, 23:11 UTC | [`ecc6766`](https://github.com/Dispatcharr/Plugins/commit/ecc6766c01f4393bfcc2eee9bf9a905b5848de00) | cf573c729f3b5d79e9b4da78b0a9ba01 | 018aff005b1ca35df0f3c8f1948c65c02c9590f683bed4fcf5f95beab992d79c |
-| `1.24.0` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/dispatcharr-ranked-matchups-1.24.0/dispatcharr-ranked-matchups-1.24.0.zip) | Aug 29 2026, 20:02 UTC | [`d61e6f2`](https://github.com/Dispatcharr/Plugins/commit/d61e6f2bc2b6dfd06dbc855897d9f323f2d22a06) | ff2e72f023a3f245daeed909240c8587 | 271c171323c9314b3cc7eacfecd64d01dd445f6fc242ff33ed42fe8ec208cbe2 |
-| `1.21.0` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/dispatcharr-ranked-matchups-1.21.0/dispatcharr-ranked-matchups-1.21.0.zip) | Aug 26 2026, 20:02 UTC | [`c2195c3`](https://github.com/Dispatcharr/Plugins/commit/c2195c3ea10e212bdc126e9b509efb32319e1a3f) | 5e94c12465c308ff13715ce4e9f79e6d | 20b7c2a959e999381925145b51a01dbdb3733dd287bb7c2183685753bdc08a71 |
-| `1.20.0` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/dispatcharr-ranked-matchups-1.20.0/dispatcharr-ranked-matchups-1.20.0.zip) | Aug 22 2026, 22:54 UTC | [`57e5b93`](https://github.com/Dispatcharr/Plugins/commit/57e5b93763f0a5f48121f596bb05b45c057c6716) | fb47fe4c51c6c9b9209185eb7962c74a | cc62033105fcba3a74dcb08558beed22d4171b5b56683c6497e3537eead3e264 |
+| `1.36.0` | [Download](https://github.com/oxios0x00/Plugins/releases/download/dispatcharr-ranked-matchups-1.36.0/dispatcharr-ranked-matchups-1.36.0.zip) | Oct 24 2026, 06:39 UTC | [`aaac7b4`](https://github.com/oxios0x00/Plugins/commit/aaac7b46076be8379e4bc9a0adc97e51807401c5) | 10f714d203c969838e1e0b4fa5fae8bd | 4d3aa5843174a8cc708d8b3846af52e3f1c1dda968af71138ad21ee6e3f0a61a |
 
 ---
 
-**Source:** [Browse Plugin](https://github.com/Dispatcharr/Plugins/tree/main/plugins/dispatcharr-ranked-matchups)
+**Source:** [Browse Plugin](https://github.com/oxios0x00/Plugins/tree/main/plugins/dispatcharr-ranked-matchups)
 
 **Metadata:** [View full manifest](./manifest.json)
 

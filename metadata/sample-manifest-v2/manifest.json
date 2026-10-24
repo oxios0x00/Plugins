@@ -1,0 +1,49 @@
+{
+  "generated_at": "2026-10-24T06:41:54Z",
+  "manifest": {
+    "slug": "sample-manifest-v2",
+    "name": "Manifest v2 Example",
+    "description": "Example of version 2 capability enforcement and durable plugin storage.",
+    "author": "Dispatcharr Team",
+    "maintainers": [
+      "sethwv"
+    ],
+    "license": "Unlicense",
+    "registry_url": "https://github.com/oxios0x00/Plugins",
+    "registry_name": "oxios0x00/Plugins",
+    "last_updated": "2026-10-22T19:01:08-04:00",
+    "download_count": 0,
+    "latest": {
+      "version": "1.0.0",
+      "commit_sha": "f01f575bc5179f37597415b9ad1e496307b845d1",
+      "commit_sha_short": "f01f575",
+      "changelog": "463",
+      "build_timestamp": "2026-10-24T06:41:06Z",
+      "last_updated": "2026-10-22T19:01:08-04:00",
+      "checksum_md5": "4f478c75e99da4b1d4540a15cf1d2449",
+      "checksum_sha256": "6e1d35c4d7d79ff477552bc429fb7baa55236abc6e7f912dcf192bcc3b015f79",
+      "min_dispatcharr_version": "v0.34.0",
+      "max_dispatcharr_version": "",
+      "latest_url": "sample-manifest-v2-1.0.0/sample-manifest-v2-1.0.0.zip",
+      "url": "sample-manifest-v2-1.0.0/sample-manifest-v2-1.0.0.zip",
+      "size": 1,
+      "download_count": 0
+    },
+    "versions": [
+      {
+        "version": "1.0.0",
+        "commit_sha": "f01f575bc5179f37597415b9ad1e496307b845d1",
+        "commit_sha_short": "f01f575",
+        "changelog": "463",
+        "build_timestamp": "2026-10-24T06:41:06Z",
+        "last_updated": "2026-10-22T19:01:08-04:00",
+        "checksum_md5": "4f478c75e99da4b1d4540a15cf1d2449",
+        "checksum_sha256": "6e1d35c4d7d79ff477552bc429fb7baa55236abc6e7f912dcf192bcc3b015f79",
+        "min_dispatcharr_version": "v0.34.0",
+        "url": "sample-manifest-v2-1.0.0/sample-manifest-v2-1.0.0.zip",
+        "size": 1,
+        "download_count": 0
+      }
+    ]
+  }
+}

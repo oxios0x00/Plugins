@@ -1,0 +1,49 @@
+{
+  "generated_at": "2026-10-24T06:41:54Z",
+  "manifest": {
+    "slug": "sample-manifest-v1",
+    "name": "Manifest v1 Example",
+    "description": "Example of the version 1 capability declaration format.",
+    "author": "Dispatcharr Team",
+    "maintainers": [
+      "sethwv"
+    ],
+    "license": "Unlicense",
+    "registry_url": "https://github.com/oxios0x00/Plugins",
+    "registry_name": "oxios0x00/Plugins",
+    "last_updated": "2026-10-22T19:01:08-04:00",
+    "download_count": 0,
+    "latest": {
+      "version": "1.0.0",
+      "commit_sha": "f01f575bc5179f37597415b9ad1e496307b845d1",
+      "commit_sha_short": "f01f575",
+      "changelog": "463",
+      "build_timestamp": "2026-10-24T06:41:02Z",
+      "last_updated": "2026-10-22T19:01:08-04:00",
+      "checksum_md5": "ffe4ec0eca8090c038fd8669cd9a0baf",
+      "checksum_sha256": "a7e9ce0fe7ee143784f283f5338e0b08836d66cbabf9297dd1cbc989c03d6359",
+      "min_dispatcharr_version": "v0.34.0",
+      "max_dispatcharr_version": "",
+      "latest_url": "sample-manifest-v1-1.0.0/sample-manifest-v1-1.0.0.zip",
+      "url": "sample-manifest-v1-1.0.0/sample-manifest-v1-1.0.0.zip",
+      "size": 1,
+      "download_count": 0
+    },
+    "versions": [
+      {
+        "version": "1.0.0",
+        "commit_sha": "f01f575bc5179f37597415b9ad1e496307b845d1",
+        "commit_sha_short": "f01f575",
+        "changelog": "463",
+        "build_timestamp": "2026-10-24T06:41:02Z",
+        "last_updated": "2026-10-22T19:01:08-04:00",
+        "checksum_md5": "ffe4ec0eca8090c038fd8669cd9a0baf",
+        "checksum_sha256": "a7e9ce0fe7ee143784f283f5338e0b08836d66cbabf9297dd1cbc989c03d6359",
+        "min_dispatcharr_version": "v0.34.0",
+        "url": "sample-manifest-v1-1.0.0/sample-manifest-v1-1.0.0.zip",
+        "size": 1,
+        "download_count": 0
+      }
+    ]
+  }
+}

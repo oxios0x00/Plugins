@@ -2,7 +2,7 @@
 
 # Stream-Mapparr
 
-**Version:** `1.26.2681209` | **Author:** PiratesIRC | **Last Updated:** Sep 25 2026, 12:17 UTC
+**Version:** `1.26.2911937` | **Author:** PiratesIRC | **Last Updated:** Oct 18 2026, 19:54 UTC
 
 Automatically add matching streams to channels based on name similarity and quality precedence. Supports unlimited stream matching, channel visibility management, and CSV export cleanup.
 
@@ -14,34 +14,25 @@ Automatically add matching streams to channels based on name similarity and qual
 
 ### Latest Release
 
-- **Download:** [`stream-mapparr-latest.zip`](https://github.com/Dispatcharr/Plugins/releases/download/stream-mapparr-1.26.2681209/stream-mapparr-1.26.2681209.zip)
-- **Built:** Sep 25 2026, 12:17 UTC
-- **Source Commit:** [`d75dbde`](https://github.com/Dispatcharr/Plugins/commit/d75dbde6de2d76eb9d036eaea6742b8889bb9a06)
+- **Download:** [`stream-mapparr-latest.zip`](https://github.com/oxios0x00/Plugins/releases/download/stream-mapparr-1.26.2911937/stream-mapparr-1.26.2911937.zip)
+- **Built:** Oct 24 2026, 06:41 UTC
+- **Source Commit:** [`79767cd`](https://github.com/oxios0x00/Plugins/commit/79767cd3ca436d0a626727af77fa4fe3ce3829b5)
 
 **Checksums:**
 ```
-MD5:    9d2ab683f719c1794cdbaea5104eb3e2
-SHA256: 9e4e884e82e7ea5f1f8de37085825834c46087e7ed898a124922b70955aede45
+MD5:    b424c81027fd9bb5052c788b8c8c14df
+SHA256: 7cbe5837dbf7b300b86bae06871d8cb4cc2fd31aa9de2708351d4800b4022cc6
 ```
 
 ### All Versions
 
 | Version | Download | Built | Commit | MD5 | SHA256 |
 |---------|----------|-------|--------|-----|--------|
-| `1.26.2681209` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/stream-mapparr-1.26.2681209/stream-mapparr-1.26.2681209.zip) | Sep 25 2026, 12:17 UTC | [`d75dbde`](https://github.com/Dispatcharr/Plugins/commit/d75dbde6de2d76eb9d036eaea6742b8889bb9a06) | 9d2ab683f719c1794cdbaea5104eb3e2 | 9e4e884e82e7ea5f1f8de37085825834c46087e7ed898a124922b70955aede45 |
-| `1.26.2621504` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/stream-mapparr-1.26.2621504/stream-mapparr-1.26.2621504.zip) | Sep 19 2026, 15:12 UTC | [`e6ad647`](https://github.com/Dispatcharr/Plugins/commit/e6ad647f9b4302fb6bb06194220235272cf30ebe) | 4b5a2ec083afc29c429acb1aeb6043ff | 167aa29c484d9b068994c3c9ac4f56c45ce5cabbdee85a2fe6449b86e52461ea |
-| `1.26.2491549` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/stream-mapparr-1.26.2491549/stream-mapparr-1.26.2491549.zip) | Sep 06 2026, 19:43 UTC | [`23d5498`](https://github.com/Dispatcharr/Plugins/commit/23d54985d7c6e71008dc376e87e3c816e5b43687) | 792b2cee73492e1bfdb331a1eb52be09 | 8e8c14cd668e94b49a29bfe6d2a64bd3f037acc13c2347bae7424df8cc194e0c |
-| `1.26.2481756` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/stream-mapparr-1.26.2481756/stream-mapparr-1.26.2481756.zip) | Sep 05 2026, 19:44 UTC | [`08a6559`](https://github.com/Dispatcharr/Plugins/commit/08a655912071b387a48110953f799f55f19a705a) | 7542bb69d07fa94231db52fde80bd08f | 3a646dddca0d221ea6e2765d0b33dce0e317b1b9aee0dfe61d7ba325f0ae8f23 |
-| `1.26.2241602` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/stream-mapparr-1.26.2241602/stream-mapparr-1.26.2241602.zip) | Aug 12 2026, 17:14 UTC | [`dc86bdd`](https://github.com/Dispatcharr/Plugins/commit/dc86bdd35a3992c6a744465854e1c402a9bcc15c) | abd5c4f4cfba1fa9fa38a9c561c0a978 | 06c8ccf427d144ee55be1b47213ea60512903e3ffd1d9956aea9351f3585ba0f |
-| `1.26.2141957` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/stream-mapparr-1.26.2141957/stream-mapparr-1.26.2141957.zip) | Aug 02 2026, 20:47 UTC | [`8f17d38`](https://github.com/Dispatcharr/Plugins/commit/8f17d382613bd3c93784eed05fa1bd500bbdf60f) | f6f6e3cdf3df10b0e4311c7ee87c89d7 | 6a8b1a5f7d4b5882a20d7bd377a67dd19368ba96127ca098bef7e728933e8b2d |
-| `1.26.2072208` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/stream-mapparr-1.26.2072208/stream-mapparr-1.26.2072208.zip) | Jul 26 2026, 23:05 UTC | [`f956fe0`](https://github.com/Dispatcharr/Plugins/commit/f956fe0035800f311a778fe3f67f71978f11b219) | 82e5db2b6d5ac8b854bb3a3178d8de60 | 2e4789cd0eae70fd945abe69ee51d55569785cafbb46027e1eac861b47b9cfda |
-| `1.26.1992013` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/stream-mapparr-1.26.1992013/stream-mapparr-1.26.1992013.zip) | Jul 18 2026, 20:24 UTC | [`6c60baf`](https://github.com/Dispatcharr/Plugins/commit/6c60baff03b2eae96218cbfd06e0c9442a40fb14) | 287b5b17e34bd430e08af0889d166af8 | 7ae476f9dcafb5e1d14897f57fc9eae5993f05b3c06130f02617754662b7aa34 |
-| `1.26.1972151` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/stream-mapparr-1.26.1972151/stream-mapparr-1.26.1972151.zip) | Jul 17 2026, 00:31 UTC | [`563e1fe`](https://github.com/Dispatcharr/Plugins/commit/563e1fefe48407e1cf045ee6a112de4eb11649b3) | be3e2c1cf8cf439e4077e90a433b32d0 | c64a232ba86481dfb11c8087c2f0c7c8f0c50ae5104823da655ace2683826018 |
-| `1.26.1960020` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/stream-mapparr-1.26.1960020/stream-mapparr-1.26.1960020.zip) | Jul 15 2026, 01:12 UTC | [`5d5d4d9`](https://github.com/Dispatcharr/Plugins/commit/5d5d4d97b7b00263e20ba5e8e1e5966a0bb1ef2e) | da87e44616c1738be63bd74ced95891a | 498673d561a9e7cbe34ccf50772a779668eb4fb47fdb91d10354c8c7a298ca2a |
+| `1.26.2911937` | [Download](https://github.com/oxios0x00/Plugins/releases/download/stream-mapparr-1.26.2911937/stream-mapparr-1.26.2911937.zip) | Oct 24 2026, 06:41 UTC | [`79767cd`](https://github.com/oxios0x00/Plugins/commit/79767cd3ca436d0a626727af77fa4fe3ce3829b5) | b424c81027fd9bb5052c788b8c8c14df | 7cbe5837dbf7b300b86bae06871d8cb4cc2fd31aa9de2708351d4800b4022cc6 |
 
 ---
 
-**Source:** [Browse Plugin](https://github.com/Dispatcharr/Plugins/tree/main/plugins/stream-mapparr)
+**Source:** [Browse Plugin](https://github.com/oxios0x00/Plugins/tree/main/plugins/stream-mapparr)
 
 **Metadata:** [View full manifest](./manifest.json)
 
@@ -56,12 +47,9 @@ SHA256: 9e4e884e82e7ea5f1f8de37085825834c46087e7ed898a124922b70955aede45
 A Dispatcharr plugin that automatically matches and assigns streams to channels
 using fuzzy matching, quality prioritization, and OTA callsign recognition.
 
-The "streams matched" badge counts stream-to-channel assignments this plugin has
-written on the maintainer's own installation, added up since the counter was
-added on 5 September 2026. It measures work done rather than distinct streams: a
-daily schedule matches the same library again and counts it again. Dry runs are
-not counted, and neither is sorting alternate streams, which reorders
-assignments that already exist.
+The Streams Matched and Active Installs badges add up figures sent by every install
+that keeps "Share anonymous usage counts" ticked; see
+[Anonymous usage counts](#anonymous-usage-counts).
 
 ## Backup Your Database
 
@@ -130,8 +118,8 @@ database. This plugin modifies channel and stream assignments.
 - **US OTA callsign matching**: US broadcast affiliates such as
   `ABC - TX Dallas (WFAA)` are matched by FCC callsign, using a bundled station
   table of around 1,900 stations
-- **Multi-country channel databases**: US, UK, CA, AU, BR, DE, ES, FR, IN, MX,
-  NL, NO
+- **Multi-country channel databases**: US, UK, CA, AU, BR, DE, DO, ES, FR, IN,
+  MX, NL, NO, PE, PL, PT
 - **Country-restricted matching** (opt-in): only match streams whose detected
   country matches the channel's
 - **Performance**: a normalization cache, C-accelerated Levenshtein through
@@ -176,7 +164,7 @@ database. This plugin modifies channel and stream assignments.
   global timezone. Safe across multiple worker processes, so a job runs once per
   slot rather than once per worker
 - **Auto-match after M3U refresh** (opt-in, Dispatcharr v0.27+): run Match and
-  Assign as soon as a refresh completes. Requires a Channel Profile
+  Assign as soon as a refresh completes successfully. Requires a Channel Profile
 - **Run after an IPTV Checker scan** (opt-in): run the scheduled steps the
   moment the IPTV Checker plugin finishes a scheduled scan, so sorting sees the
   fresh results instead of waiting for the next fixed time
@@ -226,7 +214,7 @@ the operation lock prevents concurrent runs and auto-expires after 10 minutes.
 | **Custom Ignore Tags** | string | (none) | Tags to strip before matching, for example `[Dead], (Backup)` |
 | **Wait for IPTV Checker Completion** | boolean | False | Hold a scheduled run until IPTV Checker has finished, so matching sees fresh stats |
 | **IPTV Checker Max Wait (hours)** | number | 6 | How long to wait before running anyway |
-| **Run After IPTV Checker Scan** | boolean | False | When IPTV Checker finishes a scheduled scan, run the scheduled steps (Sort Alternate Streams and Match and Assign, whichever are ticked). IPTV Checker needs its own `Trigger Stream-Mapparr` setting on |
+| **Run After IPTV Checker Scan** | boolean | False | When IPTV Checker finishes a scheduled scan, run the scheduled steps (Fill Mirror Backups, Sort Alternate Streams and Match and Assign, whichever are ticked). IPTV Checker needs its own `Trigger Stream-Mapparr` setting on |
 | **Enable CSV Export** | boolean | True | Write a CSV on a scheduled Match and Assign run. A dry run always writes one |
 | **Delete CSV Exports Older Than (Days)** | number | 0 | Remove this plugin's older reports after each new one is written. 0, the default, keeps everything. Only files this plugin wrote are ever considered, because that directory is shared with other plugins. The newest report and the one just written always survive |
 | **Tag Handling** | select | Strip All | Strip All, Keep Regional, or Keep All |
@@ -247,7 +235,7 @@ the operation lock prevents concurrent runs and auto-expires after 10 minutes.
 | **Email A Report After** | select | Scheduled runs only | Which runs email a report: never, scheduled only, or every run |
 | **Email Report Format** | select | Both | Which file is emailed. One report sends ONE email carrying one attachment, because a notification can carry only one. Both writes both files and emails the HTML page; the email names the file it did not attach |
 | **Scheduled Run Times** | string | (none) | Times in HHMM, comma-separated, for example `0400,1600` |
-| **Auto-match after M3U refresh** | boolean | False | Run Match and Assign after each M3U refresh. Requires a Channel Profile. Dispatcharr v0.27+ |
+| **Auto-match after M3U refresh** | boolean | False | Run Match and Assign after each successful M3U refresh. A refresh that ends in an error does not trigger it. Requires a Channel Profile. Dispatcharr v0.27+ |
 | **Dry Run Mode** | boolean | False | Preview without making database changes |
 | **Enable Throughput-Based Sorting** | boolean | True | Add a measured-throughput tier to alternate-stream sorting, falling back to resolution when no probe data exists |
 | **Probe Duration (seconds)** | number | 8 | Length of each throughput probe |
@@ -258,6 +246,7 @@ the operation lock prevents concurrent runs and auto-expires after 10 minutes.
 | **Placeholder Bitrate Floor (kbps)** | number | 300 | The floor for the setting above. Standard definition is never checked. Where two bitrate figures disagree the higher is used, so a disagreement keeps the stream |
 | **Audio Channels Priority** | string | "" | Audio layouts, most preferred first, for example `7.1, 5.1, stereo`. Ranked before codec. Blank disables it |
 | **Audio Codec Priority** | string | "" | Audio codecs, most preferred first, for example `eac3, ac3, aac`. Ranked after layout. Blank disables it |
+| **Share anonymous usage counts** | boolean | True | Sends this plugin's Streams Matched total and a random id to the plugin author's counter. See [Anonymous usage counts](#anonymous-usage-counts). |
 
 ## Actions
 
@@ -273,6 +262,7 @@ the operation lock prevents concurrent runs and auto-expires after 10 minutes.
 | **Match US OTA Only** | Match US broadcast channels by callsign |
 | **Sort Alternate Streams** | Re-sort existing streams by quality, and by throughput tier where probe data exists |
 | **Probe Stream Throughput** | Measure sustained throughput for assigned streams. Run this before Sort Alternate Streams |
+| **Fill Mirror Backups** | For M3U accounts placed in one Dispatcharr server group that carry the same streams from different provider hosts, add to each channel the matching stream, found by provider stream id, from every other active account whose host the channel has no stream from yet. Two accounts on the same host count as one, and inactive accounts are skipped. New streams go after the existing provider streams and before any custom stream. Adds only and never removes. In live mode it first saves each changed channel's previous stream order to `/data/stream_mapparr_snapshots/`, and changes nothing if that save fails. Writes every addition to `/config/stream-mapparr/fill-mirror-backups.txt` |
 | **Manage Channel Visibility** | Enable or disable channels based on stream count |
 | **View Check Progress** | Show the running operation's percentage and estimated time |
 | **View Last Results** | Show a summary of the last completed operation |
@@ -285,8 +275,10 @@ the operation lock prevents concurrent runs and auto-expires after 10 minutes.
 1. Set **Scheduled Run Times** in 24-hour format, for example `0400,1600`. Times
    use Dispatcharr's global timezone; there is no plugin timezone setting
 2. Choose which steps run: **Schedule: Match & Assign Streams**, on by default,
-   and **Schedule: Sort Streams**, off by default. They are independent, so a
-   schedule can sort only, match only, or both
+   **Schedule: Sort Streams**, off by default, and **Schedule: Fill Mirror
+   Backups**, off by default. They are independent, so a schedule can run any
+   of them alone or together. Fill Mirror Backups runs before Sort Streams, so
+   the mirrors it adds are sorted in the same run
 3. Enable **CSV Export** if you want one
 4. Click **Update Schedule**
 
@@ -295,15 +287,15 @@ restarts. Across multiple worker processes, a shared on-disk claim makes sure
 the job runs once per slot rather than once per worker.
 
 **Event-driven alternative** (Dispatcharr v0.27+): **Auto-match after M3U
-refresh** runs Match and Assign the moment a refresh finishes, instead of or as
+refresh** runs Match and Assign the moment a refresh finishes successfully, instead of or as
 well as fixed times. Because Dispatcharr fires that event once per M3U account,
 runs are coalesced under a lock and a follow-up pass catches any account that
 finishes mid-match. A multi-account refresh therefore produces one effective
 match rather than one per account.
 
 **After an IPTV Checker scan**: **Run After IPTV Checker Scan** runs the same
-steps the fixed times run (Sort Alternate Streams and Match and Assign,
-whichever are ticked) when the IPTV Checker plugin finishes a scheduled scan
+steps the fixed times run (Fill Mirror Backups, Sort Alternate Streams and
+Match and Assign, whichever are ticked) when the IPTV Checker plugin finishes a scheduled scan
 that reached the end of its channel list. IPTV Checker calls this plugin
 directly, so its own **Trigger Stream-Mapparr After Scheduled Check** setting
 must be on as well. A run already in progress is left alone and the next scan
@@ -328,6 +320,54 @@ because the exports contain your M3U source names.
 This plugin uses calver, `1.MAJOR.DDDHHMM`, being the UTC day of year plus the
 UTC time. Run `python scripts/bump_version.py` to bump `plugin.json` and
 `plugin.py` together.
+
+## Anonymous usage counts
+
+The Streams Matched and Active Installs badges count every install that leaves
+the "Share anonymous usage counts" setting (on by default) ticked and runs at
+least one action or scheduled run. Streams Matched counts the stream-to-channel
+assignments that Match & Assign Streams and Match US OTA Only write. With
+Overwrite Existing Streams on, which is the default, a daily schedule that
+re-matches the same streams counts them again; with it off, a stream already on
+a channel is not written or counted again. Sort Alternate Streams is not
+counted.
+
+When an action or a scheduled run finishes, the plugin sends this plugin's
+Streams Matched total and a random id for this plugin on this install to the
+plugin author's counter at plugin-stats.dpas.workers.dev. It sends at most once
+an hour, or ten minutes after the last successful send when a run has just
+assigned streams. A run that finishes inside that gap is not sent
+later: the total goes out with the first later run that is an hour past the last
+successful send, or with a later run that assigns streams once ten minutes have
+passed.
+
+The server stores that id with the total and the date of the last report, and
+keeps them until this install unticks the setting and the delete succeeds, or
+until the plugin author removes them by hand. An install that stops reporting
+still counts toward Streams Matched. The connection shows the server your public
+IP address; the server uses it only to limit abuse and does not store it in its
+database, though when an install first registers it keeps a salted one-way hash
+of it (of its /64 block for IPv6) for up to three days. Cloudflare, which hosts
+the server, keeps its own request logs. No names, channels, streams, URLs,
+providers or settings are sent. The figures are self-reported by installs and
+capped by the server, not verified.
+
+What counts as an active install: an install that sent at least one report in
+the last 30 UTC days. A badge changes after the server's hourly recount, which
+runs at the start of each UTC hour, and Shields may cache the badge for up to an
+hour more, so a new report can take up to about two hours to show.
+
+The setting is the last one in the settings form, in its own section. Unticking
+it takes effect when the next action or scheduled run finishes; the plugin then
+asks the server to delete this install's figures. Once the server confirms the
+delete, the plugin forgets its id, and ticking the setting again later starts a
+new one; if the delete could not reach the server, the plugin keeps the id and
+retries. The plugin keeps that id and the timing of its reports in
+/data/plugin_stats/stream-mapparr/ (install_id, sent, backoff, disabled,
+delete_backoff, lock). To start a new id, untick the setting and let a run
+finish so the delete succeeds; deleting that folder while the setting is ticked
+leaves the old figures on the server, and the new id then sends the full total
+again, so the badge counts those matches twice.
 
 ## Changelog
 

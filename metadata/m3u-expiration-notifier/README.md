@@ -12,9 +12,9 @@ Checks your M3U account expiration dates on a schedule and emails you before (an
 
 ### Latest Release
 
-- **Download:** [`m3u-expiration-notifier-latest.zip`](https://github.com/Dispatcharr/Plugins/releases/download/m3u-expiration-notifier-1.0.0/m3u-expiration-notifier-1.0.0.zip)
-- **Built:** Jul 17 2026, 00:26 UTC
-- **Source Commit:** [`af83e50`](https://github.com/Dispatcharr/Plugins/commit/af83e5054bf456bbe78b841eabc3a3373abbbae1)
+- **Download:** [`m3u-expiration-notifier-latest.zip`](https://github.com/oxios0x00/Plugins/releases/download/m3u-expiration-notifier-1.0.0/m3u-expiration-notifier-1.0.0.zip)
+- **Built:** Oct 24 2026, 06:40 UTC
+- **Source Commit:** [`af83e50`](https://github.com/oxios0x00/Plugins/commit/af83e5054bf456bbe78b841eabc3a3373abbbae1)
 
 **Checksums:**
 ```
@@ -26,11 +26,11 @@ SHA256: 2f154290bbea98f4e24d6162709074c01ebe7e2a65ec618a4a3000c42aa27574
 
 | Version | Download | Built | Commit | MD5 | SHA256 |
 |---------|----------|-------|--------|-----|--------|
-| `1.0.0` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/m3u-expiration-notifier-1.0.0/m3u-expiration-notifier-1.0.0.zip) | Jul 17 2026, 00:26 UTC | [`af83e50`](https://github.com/Dispatcharr/Plugins/commit/af83e5054bf456bbe78b841eabc3a3373abbbae1) | 3bc650df39ff169f519c1586af1a2bc1 | 2f154290bbea98f4e24d6162709074c01ebe7e2a65ec618a4a3000c42aa27574 |
+| `1.0.0` | [Download](https://github.com/oxios0x00/Plugins/releases/download/m3u-expiration-notifier-1.0.0/m3u-expiration-notifier-1.0.0.zip) | Oct 24 2026, 06:40 UTC | [`af83e50`](https://github.com/oxios0x00/Plugins/commit/af83e5054bf456bbe78b841eabc3a3373abbbae1) | 3bc650df39ff169f519c1586af1a2bc1 | 2f154290bbea98f4e24d6162709074c01ebe7e2a65ec618a4a3000c42aa27574 |
 
 ---
 
-**Source:** [Browse Plugin](https://github.com/Dispatcharr/Plugins/tree/main/plugins/m3u-expiration-notifier)
+**Source:** [Browse Plugin](https://github.com/oxios0x00/Plugins/tree/main/plugins/m3u-expiration-notifier)
 
 **Metadata:** [View full manifest](./manifest.json)
 

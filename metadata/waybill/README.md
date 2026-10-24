@@ -2,7 +2,7 @@
 
 # Waybill
 
-**Version:** `1.3.0` | **Author:** Matthew-Beckett | **Last Updated:** May 12 2026, 19:36 UTC
+**Version:** `1.3.0` | **Author:** Matthew-Beckett | **Last Updated:** Oct 22 2026, 23:59 UTC
 
 Waybill matches, renames, and organizes any streams no matter the provider. Infinitely configurable pipelines for total control.
 
@@ -14,8 +14,9 @@ Waybill matches, renames, and organizes any streams no matter the provider. Infi
 
 ### Latest Release
 
-- **Download:** [`waybill-latest.zip`](https://github.com/Dispatcharr/Plugins/releases/download/waybill-1.3.0/waybill-1.3.0.zip)
-- **Built:** May 12 2026, 18:47 UTC
+- **Download:** [`waybill-latest.zip`](https://github.com/oxios0x00/Plugins/releases/download/waybill-1.3.0/waybill-1.3.0.zip)
+- **Built:** Oct 24 2026, 06:41 UTC
+- **Source Commit:** [`d4fe7c7`](https://github.com/oxios0x00/Plugins/commit/d4fe7c7e7c2cd9ebd77d72e56602faae9d39f83c)
 
 **Checksums:**
 ```
@@ -27,10 +28,10 @@ SHA256: 50d03442d3e0fcdb984fb17a90b8e785dbbf2b5eab68fda1f367953071727547
 
 | Version | Download | Built | Commit | MD5 | SHA256 |
 |---------|----------|-------|--------|-----|--------|
-| `1.3.0` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/waybill-1.3.0/waybill-1.3.0.zip) | May 12 2026, 18:47 UTC | - | 87beb9950ded642b504fc24a88c506da | 50d03442d3e0fcdb984fb17a90b8e785dbbf2b5eab68fda1f367953071727547 |
+| `1.3.0` | [Download](https://github.com/oxios0x00/Plugins/releases/download/waybill-1.3.0/waybill-1.3.0.zip) | Oct 24 2026, 06:41 UTC | [`d4fe7c7`](https://github.com/oxios0x00/Plugins/commit/d4fe7c7e7c2cd9ebd77d72e56602faae9d39f83c) | 87beb9950ded642b504fc24a88c506da | 50d03442d3e0fcdb984fb17a90b8e785dbbf2b5eab68fda1f367953071727547 |
 
 ---
 
-**Source:** [Browse Plugin](https://github.com/Dispatcharr/Plugins/tree/main/plugins/waybill)
+**Source:** [Browse Plugin](https://github.com/oxios0x00/Plugins/tree/main/plugins/waybill)
 
 **Metadata:** [View full manifest](./manifest.json)

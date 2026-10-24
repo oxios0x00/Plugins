@@ -2,7 +2,7 @@
 
 # IPTV Checker
 
-**Version:** `1.26.2561754` | **Author:** PiratesIRC | **Last Updated:** Sep 19 2026, 14:41 UTC
+**Version:** `1.26.2901902` | **Author:** PiratesIRC | **Last Updated:** Oct 17 2026, 21:57 UTC
 
 Check IPTV stream status and quality with ffprobe, then rename, move, restore or delete channels based on the result. Judges a channel by all of its streams, so a working backup never marks it dead.
 
@@ -14,34 +14,25 @@ Check IPTV stream status and quality with ffprobe, then rename, move, restore or
 
 ### Latest Release
 
-- **Download:** [`iptv-checker-latest.zip`](https://github.com/Dispatcharr/Plugins/releases/download/iptv-checker-1.26.2561754/iptv-checker-1.26.2561754.zip)
-- **Built:** Sep 19 2026, 14:41 UTC
-- **Source Commit:** [`507db2c`](https://github.com/Dispatcharr/Plugins/commit/507db2c9b9b094551de71ea534566b08864d3c0d)
+- **Download:** [`iptv-checker-latest.zip`](https://github.com/oxios0x00/Plugins/releases/download/iptv-checker-1.26.2901902/iptv-checker-1.26.2901902.zip)
+- **Built:** Oct 24 2026, 06:40 UTC
+- **Source Commit:** [`06c0d38`](https://github.com/oxios0x00/Plugins/commit/06c0d380e674e99b7fa98e5e0cf7b4914dd78eee)
 
 **Checksums:**
 ```
-MD5:    6f4528c378c4000896f9453bdb1c790f
-SHA256: c011b8921ff2fa76450889123b068c6e95a2ad68bf5ab3bf381d399a8c768632
+MD5:    faca88cf2cfb2ace4ed681e9bd75af80
+SHA256: dfa15b723017d12efcb0855ca15dffebaac6c2aa30bc286556c01fdc87b31c9e
 ```
 
 ### All Versions
 
 | Version | Download | Built | Commit | MD5 | SHA256 |
 |---------|----------|-------|--------|-----|--------|
-| `1.26.2561754` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/iptv-checker-1.26.2561754/iptv-checker-1.26.2561754.zip) | Sep 19 2026, 14:41 UTC | [`507db2c`](https://github.com/Dispatcharr/Plugins/commit/507db2c9b9b094551de71ea534566b08864d3c0d) | 6f4528c378c4000896f9453bdb1c790f | c011b8921ff2fa76450889123b068c6e95a2ad68bf5ab3bf381d399a8c768632 |
-| `1.26.2481600` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/iptv-checker-1.26.2481600/iptv-checker-1.26.2481600.zip) | Sep 05 2026, 16:22 UTC | [`1d17008`](https://github.com/Dispatcharr/Plugins/commit/1d17008721288ae94b2dad5309a91a76a5a20d8a) | 9a11728804bf3bc8081dc631c77d72fb | 7f86975260fdc2c91095294f5ab4c772c3d0f219cb994fc80ccffbdff0a452a3 |
-| `1.26.2402308` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/iptv-checker-1.26.2402308/iptv-checker-1.26.2402308.zip) | Aug 28 2026, 23:25 UTC | [`f1f0426`](https://github.com/Dispatcharr/Plugins/commit/f1f0426d04b1850308fe98aee0df9321383044d3) | ea84409f0a8024caf7e809c985fda818 | 4ad182d41de3364ea7e9f98749e0a82c6867188b715f6600e49ae0cc2b02af7d |
-| `1.26.2201040` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/iptv-checker-1.26.2201040/iptv-checker-1.26.2201040.zip) | Aug 08 2026, 10:47 UTC | [`d663a41`](https://github.com/Dispatcharr/Plugins/commit/d663a410b27880e3df043156712d3c79652e89f3) | 2170f8d07b055a17b97bf88e63586915 | 0594cf87701f448c5a92c7b2a6ea60e8dda86a70c17f0752493d832c88d56a92 |
-| `1.26.2191412` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/iptv-checker-1.26.2191412/iptv-checker-1.26.2191412.zip) | Aug 07 2026, 13:58 UTC | [`3f8ef4c`](https://github.com/Dispatcharr/Plugins/commit/3f8ef4c23be6a4b9129d6ea72f789be4183ba39f) | 0b35e1ffe3d599d145714dcfc1688de2 | fdf7428f026975daae8a0b459df9e4f4f39f63c4dad9c9806dc6eb867abaeba5 |
-| `1.26.2191151` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/iptv-checker-1.26.2191151/iptv-checker-1.26.2191151.zip) | Aug 07 2026, 12:01 UTC | [`ad108d3`](https://github.com/Dispatcharr/Plugins/commit/ad108d3aa2865e71465b631c6bb1601054777684) | 48df2906e8d84ec23039b2e113d46057 | 840acf8faf4618bec26720c3598f12dfc7c31ce20c3a6f23c03e3dde64e88f46 |
-| `1.26.2181303` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/iptv-checker-1.26.2181303/iptv-checker-1.26.2181303.zip) | Aug 06 2026, 13:14 UTC | [`b4efca1`](https://github.com/Dispatcharr/Plugins/commit/b4efca16732c11b0852a089836de93e822eee88b) | c8aace013b4bf304655ea47a5358ad5b | 8bea8385b436510e22ab8adff3ddf7edc6a348ab4fec24b4f1e6ae12b9326d01 |
-| `1.26.1741204` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/iptv-checker-1.26.1741204/iptv-checker-1.26.1741204.zip) | Jun 23 2026, 22:27 UTC | [`4de0ece`](https://github.com/Dispatcharr/Plugins/commit/4de0eceafadffce2377d5de075af6dfa94ebead9) | e16b4dc3bc9953f27fca31ce4f4569af | f55095d46511ecf6f5a759b47d9738c76167690acc52240df14250f23ed53c4c |
-| `1.26.1721834` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/iptv-checker-1.26.1721834/iptv-checker-1.26.1721834.zip) | Jun 21 2026, 19:40 UTC | [`7ae9fe2`](https://github.com/Dispatcharr/Plugins/commit/7ae9fe2cfbd834148a50736f6ca5537318804d08) | ed2f2081ffcde94a28229f838beb91db | 280a80ef503627be5ab94c675cb9a757844dea34f4d6daa249d171fc14106dbd |
-| `1.26.1582047` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/iptv-checker-1.26.1582047/iptv-checker-1.26.1582047.zip) | Jun 08 2026, 00:13 UTC | [`78654d4`](https://github.com/Dispatcharr/Plugins/commit/78654d4e375d24bd55d49a800bf417c63e155c17) | 61646995883517cc4fe9caeec47dffb5 | e25a02db89ace1b05366b2c361f20c56876deabddba59ee3dd8b3817240dced1 |
+| `1.26.2901902` | [Download](https://github.com/oxios0x00/Plugins/releases/download/iptv-checker-1.26.2901902/iptv-checker-1.26.2901902.zip) | Oct 24 2026, 06:40 UTC | [`06c0d38`](https://github.com/oxios0x00/Plugins/commit/06c0d380e674e99b7fa98e5e0cf7b4914dd78eee) | faca88cf2cfb2ace4ed681e9bd75af80 | dfa15b723017d12efcb0855ca15dffebaac6c2aa30bc286556c01fdc87b31c9e |
 
 ---
 
-**Source:** [Browse Plugin](https://github.com/Dispatcharr/Plugins/tree/main/plugins/iptv-checker)
+**Source:** [Browse Plugin](https://github.com/oxios0x00/Plugins/tree/main/plugins/iptv-checker)
 
 **Metadata:** [View full manifest](./manifest.json)
 
@@ -80,7 +71,7 @@ Other things it does:
 
 - Scheduled checks, including overnight windows that pause at a set time and resume where they
   left off on the next window.
-- An HTML report written to `/config/iptv_checker/report.html`, grouped by what you should do
+- An HTML report written to `/config/iptv_checker/report.html` (or to `/data/iptv_checker/reports/` when `/config` cannot be written), grouped by what you should do
   about each finding, and optionally emailed through the
   [Newsflasharr](https://github.com/PiratesIRC) plugin. It is one self-contained file that fetches
   nothing from the internet, so it reads the same in a mail client and on a television browser, and
@@ -151,6 +142,25 @@ Contribution steps, the CI gates, and how updates reach the Dispatcharr plugin m
 This plugin makes bulk changes to your channel database, including permanent deletion when you
 enable it. Test on a small group first, keep a database backup, and read what an action says it will
 do before confirming it.
+
+## Anonymous usage counts
+
+The Streams Checked and Active Installs badges count every install that leaves
+the "Share anonymous usage counts" setting (on by default) ticked and runs at
+least one action or check. When an action or check finishes, at most once an
+hour, or ten minutes after the last report when a check has just checked
+streams, the plugin sends this plugin's Streams Checked total and a random id
+for this plugin on this install to the plugin author's counter at
+plugin-stats.dpas.workers.dev. The server stores that id with the total and the
+date of the last report. The connection shows the server your public IP
+address; the server uses it only to limit abuse and does not store it in its
+database, though when an install first registers it keeps a salted one-way hash
+of it (of its /64 block for IPv6) for up to three days. Cloudflare, which hosts
+the server, keeps its own request logs. No names, channels, streams, URLs,
+providers or settings are sent. The figures are self-reported by installs and
+capped by the server, not verified. Untick the setting to stop sending; this
+install's figures are deleted from the server the next time an action or check
+finishes after you untick. Details: [User Guide](https://github.com/PiratesIRC/Dispatcharr-IPTV-Checker-Plugin/blob/main/docs/USER-GUIDE.md#anonymous-usage-counts).
 
 ## License
 

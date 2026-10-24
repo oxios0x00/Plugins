@@ -14,9 +14,9 @@ Speeds up channel startup for low-bitrate (usually audio only) streams by loweri
 
 ### Latest Release
 
-- **Download:** [`audio-buffer-tuner-latest.zip`](https://github.com/Dispatcharr/Plugins/releases/download/audio-buffer-tuner-0.3.5/audio-buffer-tuner-0.3.5.zip)
-- **Built:** Sep 16 2026, 17:11 UTC
-- **Source Commit:** [`3ceeddd`](https://github.com/Dispatcharr/Plugins/commit/3ceeddd53b4d49d5d14584768f69121e8094d6df)
+- **Download:** [`audio-buffer-tuner-latest.zip`](https://github.com/oxios0x00/Plugins/releases/download/audio-buffer-tuner-0.3.5/audio-buffer-tuner-0.3.5.zip)
+- **Built:** Oct 24 2026, 06:39 UTC
+- **Source Commit:** [`3ceeddd`](https://github.com/oxios0x00/Plugins/commit/3ceeddd53b4d49d5d14584768f69121e8094d6df)
 
 **Checksums:**
 ```
@@ -28,10 +28,10 @@ SHA256: 18b2f649282b8199290a10654868f194c4a3cf1cf02da86ed9b38e7c5115076e
 
 | Version | Download | Built | Commit | MD5 | SHA256 |
 |---------|----------|-------|--------|-----|--------|
-| `0.3.5` | [Download](https://github.com/Dispatcharr/Plugins/releases/download/audio-buffer-tuner-0.3.5/audio-buffer-tuner-0.3.5.zip) | Sep 16 2026, 17:11 UTC | [`3ceeddd`](https://github.com/Dispatcharr/Plugins/commit/3ceeddd53b4d49d5d14584768f69121e8094d6df) | 5cf6208253d8f12c5f0d473211e21728 | 18b2f649282b8199290a10654868f194c4a3cf1cf02da86ed9b38e7c5115076e |
+| `0.3.5` | [Download](https://github.com/oxios0x00/Plugins/releases/download/audio-buffer-tuner-0.3.5/audio-buffer-tuner-0.3.5.zip) | Oct 24 2026, 06:39 UTC | [`3ceeddd`](https://github.com/oxios0x00/Plugins/commit/3ceeddd53b4d49d5d14584768f69121e8094d6df) | 5cf6208253d8f12c5f0d473211e21728 | 18b2f649282b8199290a10654868f194c4a3cf1cf02da86ed9b38e7c5115076e |
 
 ---
 
-**Maintainers:** CtznSniiips | **Source:** [Browse Plugin](https://github.com/Dispatcharr/Plugins/tree/main/plugins/audio-buffer-tuner)
+**Maintainers:** CtznSniiips | **Source:** [Browse Plugin](https://github.com/oxios0x00/Plugins/tree/main/plugins/audio-buffer-tuner)
 
 **Metadata:** [View full manifest](./manifest.json)
