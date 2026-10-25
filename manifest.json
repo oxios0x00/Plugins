@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T06:41:54Z",
+  "generated_at": "2026-10-25T03:01:04Z",
   "manifest": {
     "registry_url": "https://github.com/oxios0x00/Plugins",
     "registry_name": "oxios0x00/Plugins",
@@ -535,7 +535,7 @@
         "author": "oxios0x00",
         "license": "MIT",
         "last_updated": "2026-10-10T10:00:22Z",
-        "download_count": 0,
+        "download_count": 1,
         "latest_version": "2.6.4",
         "latest_changelog": "407",
         "latest_md5": "e7799ab16be8b6f197f1503f207da991",
